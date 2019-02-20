@@ -40,12 +40,24 @@ PrecisionTECH(Beijing) Software Studio founded in 2010 by a group of engineers w
 
 ## Our recent works
 
-1. [Wildtrip: Africa Travel Related APP](projects/wildtrip.md)
+* [Wildtrip: Africa Travel Related APP](projects/wildtrip.md)
 
-2. [General Aviation Supervision System](projects/gass.md)
+* [General Aviation Supervision System](projects/gass.md)
 
-3. [Weiwuye: ERP system for Property management](projects/weiwuye.md)
+* [Weiwuye: ERP system for Property management](projects/weiwuye.md)
 
-4. [Antu Hotel Information System](projects/antu.md)
+* [Antu Hotel Information System](projects/antu.md)
 
-5. 
+* [Xiachufang Original Version](projects/xcf.md)
+
+* [Zucaitong: gambling software](projects/zct.md)
+
+* [Lost and found App](projects/others.md)
+
+* [Photometer](projects/others.md)
+
+* [African Visa Assistant](projects/others.md)
+
+* [Daily Golf](projects/others.md)
+
+* [Aicaixun](projects/others.md)
