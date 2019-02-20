@@ -32,6 +32,18 @@ PrecisionTECH(Beijing) Software Studio founded in 2010 by a group of engineers w
 
 ### Liguo Wang
 
+![Leo Wang](images/liguo.png "Leo Wang")
+
+* Senior front-end and back-end development engineer
+
+#### Technology stacks
+
+* PHP: symfony / Wordpress / Slim
+* Microsoft: C# / .NET CORE / ASP.NET MVC
+* Database: MYSQL / SQLServer / PostgreSQL
+* JS: Angularjs
+* Python: scrapy / Django
+
 ### Lei Ahang
 
 ### Qinteng Huo
