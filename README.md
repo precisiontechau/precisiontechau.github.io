@@ -25,6 +25,11 @@ PrecisionTECH(Beijing) Software Studio founded in 2010 by a group of engineers w
 ### Evacuee Xia
 
 ![Evacuee Xia](images/xia.png "Evacuee Xia")
+* 7 years of experience in internet and mobile internet entrepreneurship;
+* Participate in the design and development of many successful Internet products;
+* Formerly the chief product designer of Antu Short Term Rental;
+* Worked in the famous 4A advertising company in China; 
+
 
 ### Ethan Luo
 
