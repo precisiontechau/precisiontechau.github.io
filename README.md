@@ -1,4 +1,4 @@
-# PrecisionTECH Beijing [中文版本](README_CN.md)
+# Language: English | [中文版本](README_CN.md)
 
 ## Introduction
 
