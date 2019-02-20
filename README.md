@@ -30,7 +30,22 @@ PrecisionTECH(Beijing) Software Studio founded in 2010 by a group of engineers w
 
 ![Ethan Luo](images/luo.png "Ethan Luo")
 
-## Our works
+### Liguo Wang
 
+### Lei Ahang
 
+### Qinteng Huo
 
+### Qiang Sun
+
+## Our recent works
+
+1. [Wildtrip: Africa Travel Related APP](projects/wildtrip.md)
+
+2. [General Aviation Supervision System](projects/gass.md)
+
+3. [Weiwuye: ERP system for Property management](projects/weiwuye.md)
+
+4. [Antu Hotel Information System](projects/antu.md)
+
+5. 
