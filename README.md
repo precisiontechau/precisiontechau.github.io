@@ -10,6 +10,25 @@ PrecisionTECH(Beijing) Software Studio founded in 2010 by a group of engineers w
 
 ![Tom Chen](images/tomchen.png "Tom Chen")
 
+* Former [ENLIGHT MEDIA(SHE: 300251)](https://en.wikipedia.org/wiki/Beijing_Enlight_Media) Technical Director
+* Senior front-end and back-end development engineer
+
+#### Technology stacks
+
+* PHP: symfony / Wordpress / Drupal
+* Microsoft: C# / .NET CORE / ASP.NET MVC
+* Database: MYSQL / SQLServer / PostgreSQL
+* JS: Vuejs / Angularjs
+* Flutter
+* Vuejs + NativeScript
+
+### Evacuee Xia
+
+![Evacuee Xia](images/xia.png "Evacuee Xia")
+
+### Ethan Luo
+
+![Ethan Luo](images/luo.png "Ethan Luo")
 
 ## Our works
 
