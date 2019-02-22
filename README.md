@@ -35,6 +35,15 @@ PrecisionTECH(Beijing) Software Studio founded in 2010 by a group of engineers w
 
 ![Ethan Luo](images/luo.png "Ethan Luo")
 
+* Front-end development engineer
+
+#### Technology stacks
+
+* HTML5 / CSS3 / Bootstrap
+* JS: JQuery / Vuejs / Angularjs
+* PHP: Wordpress / Codeigniter
+* WeChat miniprogram
+
 ### Liguo Wang
 
 ![Leo Wang](images/liguo.png "Leo Wang")
